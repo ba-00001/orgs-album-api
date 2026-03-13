@@ -142,10 +142,10 @@
       "title": "Swift Club at FIU Album",
       "organization": "Swift Club at FIU",
       "year": 2026,
-      "type": "missing",
-      "url": null,
-      "status": "unmapped",
-      "note": "No URL mapping found in hackuniversity.html"
+      "type": "google_photos",
+      "url": "https://photos.app.goo.gl/c7xT5y8bWokiNFBs6",
+      "status": "active"
+      "note": ""
     }
   ]
 }
