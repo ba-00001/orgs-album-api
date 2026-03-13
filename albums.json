@@ -1,0 +1,151 @@
+{
+  "project": "Hack University Photos",
+  "baseWebsite": "https://hackuniversity-photos.vercel.app/",
+  "albums": [
+    {
+      "id": "hack-university-all-orgs",
+      "title": "ALL ORGS ALBUM Photos (HACK UNIVERSITY)",
+      "organization": "Hack University",
+      "year": 2026,
+      "type": "hub",
+      "url": "https://hackuniversity-photos.vercel.app/",
+      "status": "active"
+    },
+    {
+      "id": "305-hackathon-march-2026",
+      "title": "2026 - 305 Hackathon March Edition Album",
+      "organization": "Hack University",
+      "year": 2026,
+      "type": "google_photos",
+      "url": "https://photos.app.goo.gl/S9YCZ6MgeTtreDKq6",
+      "status": "active"
+    },
+    {
+      "id": "hack-fiesta-miami-february-2026",
+      "title": "2026 - Hack Fiesta Miami February Edition Album",
+      "organization": "Hack University",
+      "year": 2026,
+      "type": "google_photos",
+      "url": "https://photos.app.goo.gl/QaQsG1Ck32TRofBb8",
+      "status": "active"
+    },
+    {
+      "id": "spring-study-jams-2026",
+      "title": "2026 - Spring GDG at FIU Study Jams Album",
+      "organization": "GDG at FIU",
+      "year": 2026,
+      "type": "google_photos",
+      "url": "https://photos.app.goo.gl/75igz9FH4cQzF4t68",
+      "status": "active"
+    },
+    {
+      "id": "305-hackathon-january-2026",
+      "title": "2026 - 305 Hackathon January Edition Album",
+      "organization": "Hack University",
+      "year": 2026,
+      "type": "google_photos",
+      "url": "https://photos.google.com/share/AF1QipN4JtGK4n186ewkcYr5nypsPumWt99ypTrTyL9l1J__W5hlmtHl5UVg137HRBbZ3g?key=eGdBYlZNdS04aTQ3WWtTVGRKQ0g2UTh3c3ZWNVJn",
+      "status": "active"
+    },
+    {
+      "id": "colorstack-winter-hackathon-2025",
+      "title": "2025 - ColorStack Winter Hackathon Album",
+      "organization": "ColorStack at FIU",
+      "year": 2025,
+      "type": "slack",
+      "url": "https://colorstack-family.slack.com/archives/C084ZCYQ50C/p1765833689585929",
+      "status": "restricted"
+    },
+    {
+      "id": "code-fest-december-2025",
+      "title": "2025 - Code Fest December Edition Album",
+      "organization": "Code Crunch Worldwide",
+      "year": 2025,
+      "type": "google_photos",
+      "url": "https://photos.app.goo.gl/9U7RVWPZ3h5uKeGZ7",
+      "status": "active"
+    },
+    {
+      "id": "devfest-november-2025",
+      "title": "2025 - DevFest November Edition Album",
+      "organization": "GDG at FIU",
+      "year": 2025,
+      "type": "google_photos",
+      "url": "https://photos.app.goo.gl/vcns8Qwjsayofj2s7",
+      "status": "active"
+    },
+    {
+      "id": "empower-hackathon-october-2025",
+      "title": "2025 - Empower Hackathon October Edition Album",
+      "organization": "Hack University",
+      "year": 2025,
+      "type": "google_photos",
+      "url": "https://photos.app.goo.gl/aXZn5AVC2HeMcu8V7",
+      "status": "active"
+    },
+    {
+      "id": "305-hackathon-september-2025",
+      "title": "2025 - 305 Hackathon September Edition Album",
+      "organization": "Hack University",
+      "year": 2025,
+      "type": "google_photos",
+      "url": "https://photos.app.goo.gl/D29qiuz4nkeTKTs86",
+      "status": "active"
+    },
+    {
+      "id": "gdg-at-fiu-album",
+      "title": "GDG at FIU Album",
+      "organization": "GDG at FIU",
+      "year": 2026,
+      "type": "hub",
+      "url": "https://hackuniversity-photos.vercel.app/",
+      "status": "active"
+    },
+    {
+      "id": "code-crunch-worldwide-album",
+      "title": "Code Crunch WorldWide Album",
+      "organization": "Code Crunch Worldwide",
+      "year": 2026,
+      "type": "hub",
+      "url": "https://hackuniversity-photos.vercel.app/",
+      "status": "active"
+    },
+    {
+      "id": "colorstack-at-fiu-album",
+      "title": "ColorStack at FIU",
+      "organization": "ColorStack at FIU",
+      "year": 2026,
+      "type": "hub",
+      "url": "https://hackuniversity-photos.vercel.app/",
+      "status": "active"
+    },
+    {
+      "id": "cahsi-at-fiu-album",
+      "title": "CAHSI at FIU Album",
+      "organization": "CAHSI at FIU",
+      "year": 2026,
+      "type": "hub",
+      "url": "https://hackuniversity-photos.vercel.app/",
+      "status": "active"
+    },
+    {
+      "id": "raspberry-pi-code-crunch-album",
+      "title": "Raspberry Pi Code Crunch at FIU Album",
+      "organization": "Raspberry Pi Code Crunch at FIU",
+      "year": 2026,
+      "type": "hub",
+      "url": "https://hackuniversity-photos.vercel.app/",
+      "status": "active"
+    },
+    {
+      "id": "swift-club-at-fiu-album",
+      "title": "Swift Club at FIU Album",
+      "organization": "Swift Club at FIU",
+      "year": 2026,
+      "type": "missing",
+      "url": null,
+      "status": "unmapped",
+      "note": "No URL mapping found in hackuniversity.html"
+    }
+  ]
+}
